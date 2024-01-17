@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![image](https://github.com/archit1210/YouTube-Clone/assets/115661461/d73d8c82-547f-4e1e-aedb-90ffc62288c9)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

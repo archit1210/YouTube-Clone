@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 ![image](https://github.com/archit1210/YouTube-Clone/assets/115661461/d73d8c82-547f-4e1e-aedb-90ffc62288c9)
+![image](https://github.com/archit1210/YouTube-Clone/assets/115661461/76762b4f-71dd-4796-b2a2-39d2d2ce92ba)
+![Uploading image.png…]()
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
